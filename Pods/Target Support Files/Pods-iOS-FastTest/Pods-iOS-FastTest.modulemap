@@ -1,0 +1,6 @@
+module Pods_iOS_FastTest {
+  umbrella header "Pods-iOS-FastTest-umbrella.h"
+
+  export *
+  module * { export * }
+}
